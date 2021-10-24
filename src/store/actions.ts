@@ -1,0 +1,11 @@
+export const ADD_USER_DETAILS: string = 'ADD_USER_DETAILS';
+export const UPDATE_USER_DETAILS: string = 'UPDATE_USER_DETAILS';
+export const DELETE_USER_DETAILS: string = 'DELETE_USER_DETAILS';
+export const EDIT_USER_DETAILS: string = 'EDIT_USER_DETAILS';
+export const LOGIN_VALIDATION: string = 'LOGIN_VALIDATION';
+export const AUTHORIZATION_TRUE: string = 'AUTHORIZATION_TRUE';
+export const AUTHORIZATION_FALSE: string = 'AUTHORIZATION_FALSE';
+
+export const ASYNC_REQUEST_INIT: string = 'ASYNC_REQUEST_INIT';
+export const ASYNC_REQUEST_SUCCESS: string = 'ASYNC_REQUEST_SUCCESS';
+export const ASYNC_REQUEST_FAIL: string = 'ASYNC_REQUEST_FAIL';
